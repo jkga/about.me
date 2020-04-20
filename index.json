@@ -29,7 +29,7 @@
     "position": "MIS Assistant",
     "website": "https://searca.org",
     "startDate": "2016-06-01",
-    "endDate": "",
+    "endDate": "2020-01-20",
     "summary": "Develop various web based information systems",
     "highlights": []
   },{
@@ -45,7 +45,6 @@
     "position": "Fullstack Web Developer",
     "website": "https://winereachapp.org",
     "startDate": "2017-06-01",
-    "endDate": "",
     "summary": "Develop mobile and web application for wine festivals",
     "highlights": []
   },{
@@ -53,7 +52,6 @@
     "position": "Information Technology Cooridnator/Instructor",
     "website": "https://www.pwu.edu.ph",
     "startDate": "2013-06-01",
-    "endDate": "",
     "summary": "Coordinates IT faculty staff and students",
     "highlights": []
   }],
@@ -79,8 +77,6 @@
     "area": "Computer Hardware Servicing",
     "studyType": "Vocational",
     "startDate": "2011-01-01",
-    "endDate": "",
-    "gpa": "",
     "courses": []
   }],
   "awards": [{
@@ -148,8 +144,6 @@
       "keywords": [
         "NodeJS", "Javascript"
       ],
-      "startDate": "",
-      "endDate": "",
       "url": "https://github.com/jkga/ghorl",
       "roles": [ 
         "Creator", "Lead Developer"
@@ -164,8 +158,6 @@
       "keywords": [
         "NodeJS", "Javascript", "NextJS", "Serverless"
       ],
-      "startDate": "",
-      "endDate": "",
       "url": "https://resume-generator-ten.now.sh",
       "roles": [ 
         "Creator", "Lead Developer"
@@ -182,8 +174,6 @@
       "keywords": [
         "NodeJS", "Javascript", "CLI", "COVID-19"
       ],
-      "startDate": "",
-      "endDate": "",
       "url": "https://trackercli.com",
       "roles": [ 
         "Co-Developer", "Maintainer"
