@@ -1,6 +1,196 @@
 {
-	"basics": {
-		"name": "John Kenneth Abella",
-		"label": "Web Developer"
-	}
+  "basics": {
+    "name": "John Kenneth Gibas Abella",
+    "label": "Web Developer",
+    "picture": "https://avatars0.githubusercontent.com/u/10413754?s=460&u=e32aec1d2737763b3c047e200f5fac7027d69177&v=4",
+    "email": "johnkennethgibasabella@gmail.com",
+    "phone": "",
+    "website": "https://jkga.now.sh",
+    "summary": "Contributing to OSS while on Enhance Community Quarantine",
+    "location": {
+      "address": "Cabuyao",
+      "postalCode": "",
+      "city": "Laguna",
+      "countryCode": "PH",
+      "region": "Philippines"
+    },
+    "profiles": [{
+      "network": "Github",
+      "username": "jkga",
+      "url": "https://github.com/jkga"
+    },{
+      "network": "LinkedIn",
+      "username": "jkga",
+      "url": "https://linkedin.com/jkga"
+    }]
+  },
+  "work": [{
+    "company": "Southeast Asian Regional Center for Graduate Study and Research in Agriculture",
+    "position": "MIS Assistant",
+    "website": "https://searca.org",
+    "startDate": "2016-06-01",
+    "endDate": "",
+    "summary": "Develop various web based information systems",
+    "highlights": []
+  },{
+    "company": "Southeast Asian Regional Center for Graduate Study and Research in Agriculture",
+    "position": "Computer Programmer",
+    "website": "https://searca.org",
+    "startDate": "2015-01-01",
+    "endDate": "2016-06-01",
+    "summary": "Develop and maintain in-house information systems",
+    "highlights": []
+  },{
+    "company": "Winereach",
+    "position": "Fullstack Web Developer",
+    "website": "https://winereachapp.org",
+    "startDate": "2017-06-01",
+    "endDate": "",
+    "summary": "Develop mobile and web application for wine festivals",
+    "highlights": []
+  },{
+    "company": "Philippine Women's University",
+    "position": "Information Technology Cooridnator/Instructor",
+    "website": "https://www.pwu.edu.ph",
+    "startDate": "2013-06-01",
+    "endDate": "",
+    "summary": "Coordinates IT faculty staff and students",
+    "highlights": []
+  }],
+  "volunteer": [{
+    "organization": "Google Developer Group Philippines",
+    "position": "Web developer",
+    "website": "https://devfest.gdgph.org",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Web developer volunteer for GDGPH/DevFest2017",
+    "highlights": []
+  }],
+  "education": [{
+    "institution": "Laguna State Polytechnic University - Los Baños",
+    "area": "Bachelor of Science in Information Technology",
+    "studyType": "Bachelor",
+    "startDate": "2009-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "",
+    "courses": []
+  },{
+    "institution": "Technical Education and Skills Development Authority (TESDA)",
+    "area": "Computer Hardware Servicing",
+    "studyType": "Vocational",
+    "startDate": "2011-01-01",
+    "endDate": "",
+    "gpa": "",
+    "courses": []
+  }],
+  "awards": [{
+    "title": "Programmer of the Year",
+    "date": "2013-06-01",
+    "awarder": "Laguna State Polytechnic University - Los Baños",
+    "summary": "LSPU - BSIT Programmer of the year 2013"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Beginner",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "React",
+      "Laravel",
+      "mySQL",
+      "git",
+      "nodeJS"
+    ]
+  }],
+  "languages": [{
+    "language": "Filipino",
+    "fluency": "Native speaker"
+  },{
+    "language": "English",
+    "fluency": "Intermediate"
+  }],
+  "interests": [{
+    "name": "Electronics",
+    "keywords": [
+      "PCB Designing",
+      "Microcontrollers"
+    ]
+  },{
+    "name": "Music",
+    "keywords": [
+      "Love Song",
+      "Soul"
+    ]
+  },{
+    "name": "Internet of Things",
+    "keywords": [
+      "IOT",
+      "Arduino",
+      "ESP8266"
+    ]
+  },{
+    "name": "Free and Open Source Software",
+    "keywords": [
+      "Github",
+      "FOSS"
+    ]
+  }],
+  "references": [{
+    "name": "Anonymous Client",
+    "reference": "Kenneth did a great job. He was excellent with communication and knowledge.\nOne of the best experiences I've had with a freelancer on Upwork."
+  }],
+  "projects": [
+    {
+      "name": "Ghorl",
+      "description": "CLI tool for auditing cPanel raw access logs.",
+      "highlights": [],
+      "keywords": [
+        "NodeJS", "Javascript"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://github.com/jkga/ghorl",
+      "roles": [ 
+        "Creator", "Lead Developer"
+      ],
+      "image": "https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/public/logo.png",
+      "entity": "",
+      "type": "cli application"
+    },{
+      "name": "Resume Generator",
+      "description": "online resume generator for developers",
+      "highlights": [],
+      "keywords": [
+        "NodeJS", "Javascript", "NextJS", "Serverless"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://resume-generator-ten.now.sh",
+      "roles": [ 
+        "Creator", "Lead Developer"
+      ],
+      "image": "https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/public/logo.png",
+      "entity": "",
+      "type": "web application"
+    },{
+      "name": "COVID19 Tracker CLI",
+      "description": "A curl-based command line tracker for Novel Coronavirus or COVID-19 pandemic.",
+      "highlights": [ 
+        "Provide API for sending blessed charts via http"
+      ],
+      "keywords": [
+        "NodeJS", "Javascript", "CLI", "COVID-19"
+      ],
+      "startDate": "",
+      "endDate": "",
+      "url": "https://trackercli.com",
+      "roles": [ 
+        "Co-Developer", "Maintainer"
+      ],
+      "image": "https://github.com/Semantic-Org/Semantic-UI-React/raw/master/docs/public/logo.png",
+      "entity": "",
+      "type": "cli application"
+    }
+  ]
 }
